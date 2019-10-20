@@ -1,0 +1,4 @@
+scopes: area of access 
+Not all variables accessible everywhere.
+
+outer scope is available to inner scope but not the vv.

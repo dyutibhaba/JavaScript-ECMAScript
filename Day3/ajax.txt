@@ -1,0 +1,7 @@
+sending and receiving data without page reload is what AJAX is.
+XMLHttpRequest - Every browser has this function
+
+Asynchronous - doing things in background at the same time
+Javscript
+And
+XML

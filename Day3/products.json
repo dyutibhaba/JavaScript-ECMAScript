@@ -1,0 +1,41 @@
+[
+    {
+    "id": "1",
+    "categories": [
+    "men"
+    ],
+    "productCode": "AX329T",
+    "productName": "Light Brown Men Shoe 1",
+    "imageUrl": "01_men_one.jpg",
+    "price": 68.39,
+    "size": 43,
+    "color": "lightbrown",
+    "productTags": null
+    },
+    {
+    "id": "2",
+    "categories": [
+    "men"
+    ],
+    "productCode": "6X3D93",
+    "productName": "Brown Men Shoe 2",
+    "imageUrl": "02_men_two.jpg",
+    "price": 81.99,
+    "size": 41,
+    "color": "brown",
+    "productTags": null
+    },
+    {
+    "id": "3",
+    "categories": [
+    "men"
+    ],
+    "productCode": "NX3G66",
+    "productName": "Dark Brown Men Shoe 3",
+    "imageUrl": "03_men_three.jpg",
+    "price": 70.26,
+    "size": 42,
+    "color": "darkbrown",
+    "productTags": null
+    }
+    ]
