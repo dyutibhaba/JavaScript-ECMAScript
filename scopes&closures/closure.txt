@@ -1,1 +1,0 @@
-A function which remembers its scope is a closure.

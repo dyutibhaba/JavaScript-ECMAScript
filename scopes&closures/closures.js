@@ -1,20 +1,12 @@
-var a = 10;
+/*jshint esversion: 6 */
 
-function ouuter(){
-    var b = 20;
-    var inner = function(){
-        a++;
-        b++;
-        console.log(a);
-        console.log(b);
-    }
-    //inner();
-
+//JS Lexical scoping
+let f;
+if (true) {
+  let a = 10;
+  f = () => {
+    console.log(a); //10 is available inside f()
+  };
 }
-var innerFunc1 = ouuter();
-
-innerFunc1(); //this function remenbers its scope + its body of execution
-
-var innerFunc2 = ouuter();
-
-innerFunc2(); //this function remenbers its scope + its body of execution
+console.dir(f);
+f();
